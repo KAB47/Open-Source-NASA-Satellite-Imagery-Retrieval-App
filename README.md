@@ -5,7 +5,7 @@ An (In progress) Flask-based web application that fetches satellite imagery from
 
 This project provides a Flask-based web application to fetch satellite imagery using an Earth API. It integrates with Google Earth Engine to retrieve Landsat 8 satellite images.
 
-## Roadbloack
+## Roadblock
 - I am trying get the flask app (app.py) to fetch the satellite image from the 'earth_api' app but have not been successful.
 - What I have tried:
 
